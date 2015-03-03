@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-net-3.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/commons-net-3.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/smack.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libs/smackx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
